@@ -1,6 +1,6 @@
 # Radar_Application
 
-#SCHEMA GLOBAL 
+# SCHEMA GLOBAL 
 
 ![Schematiqation](https://github.com/Dembelinho/Radar_Application/assets/110602716/4d16b39b-cad4-4dd2-9175-12288b1466a0)
 
